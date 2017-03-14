@@ -1,0 +1,2 @@
+# seatcheckin
+Social seating app
